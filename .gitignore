@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+chroma_db/
+*.pyc
+*.pyo
+*.pyd
+venv/
+.env
+.json
+
+# SQLite Database
+*.db
+*.sqlite3
+
+# Logs
+*.log
+
+# IDE/Editor Configs
+.vscode/
+.idea/
